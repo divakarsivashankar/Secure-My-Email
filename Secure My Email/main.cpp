@@ -358,8 +358,8 @@ namespace googleapis {
     util::Status GmailSample::Authorize() {
         std::cout
         << std::endl
-        << "Welcome to the Google APIs for C++ CalendarSample.\n"
-        << "  You will need to authorize this program to look at your calendar.\n"
+        << "Welcome to the Google APIs for C++.\n"
+        << "  You will need to authorize this program to look at your mail.\n"
         << "  If you would like to save these credentials between runs\n"
         << "  (or restore from an earlier run) then enter a Google Email "
         "Address.\n"
